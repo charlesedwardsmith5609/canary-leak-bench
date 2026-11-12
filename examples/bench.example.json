@@ -1,0 +1,9 @@
+{
+  "model_id": "placeholder-model-set-me",
+  "api_key_env": "ANTHROPIC_API_KEY",
+  "usd_per_mtok_in": "3.00",
+  "usd_per_mtok_out": "15.00",
+  "max_output_tokens": 512,
+  "timeout_s": 60,
+  "max_turns": 4
+}
